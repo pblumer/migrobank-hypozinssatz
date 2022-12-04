@@ -1,0 +1,1 @@
+# migrobank-hypozinssatz
